@@ -1,6 +1,6 @@
 # Weather App
 The app shows weather information, 15/10/2024
-By [Adan1Abdullahi]
+By [Adan Abdullahi]
 
 # Description
 This application allows users to search for weather information for different locations. It provides current weather details, including temperature, humidity, wind speed, and more.
