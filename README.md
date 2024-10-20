@@ -15,7 +15,6 @@ And you are all set.
 
 # Live Server
 You can view the live weather app on [Weather App Live](https://adan-jr.github.io/we/)
-
 render live [https://dashboard.render.com/web/srv-cs8f7bm8ii6s73ca3i6g/deploys/dep-cs8f7cm8ii6s73ca3is0]
 
 # Known Bugs
@@ -23,7 +22,7 @@ The application is currently functioning without any known issues.
 
 # Technologies Used
 HTML, CSS, JavaScript, OpenWeather API.
-Github
+
 
 # Support and Contact Details
 If you have any issues or suggestions, please feel free to contact me at:[abbdullahiadan237@gmail.com]
