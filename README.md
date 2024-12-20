@@ -1,5 +1,5 @@
 # Weather App
-The app shows weather information, 15/10/2024
+The app shows weather information, 20/12/2024
 By [Adan Abdullahi]
 
 # Description
@@ -14,7 +14,7 @@ This application allows users to search for weather information for different lo
 And you are all set.
 
 # Live Server
-You can view the live weather app on [Weather App Live](https://adan-jr.github.io/we/)
+You can view the live weather app on [Weather App Live](https://we-zeta.vercel.app/)
 render live [https://dashboard.render.com/web/srv-cs8f7bm8ii6s73ca3i6g/deploys/dep-cs8f7cm8ii6s73ca3is0]
 
 # Known Bugs
@@ -25,7 +25,7 @@ HTML, CSS, JavaScript, OpenWeather API.
 
 
 # Support and Contact Details
-If you have any issues or suggestions, please feel free to contact me at:[abbdullahiadan237@gmail.com]
+If you have any issues or suggestions, please feel free to contact me at:[adanabdullahi343@gmail.com]
 
 # License
 Licensed under the MIT License
